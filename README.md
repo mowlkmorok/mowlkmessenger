@@ -1,5 +1,5 @@
 # Real-Time Chat Application  
-### Flutter • Java Spring Boot • WebSocket • Redis
+### Flutter • Java Spring Boot • Pure WebSocket(with broadcast message) • Redis
 
 ## Project Summary
 
