@@ -1,4 +1,4 @@
-# This is a simple java spring with pure websocket
+# This is a simple java spring with pure websocket and Redis.
 
 <br>
 
